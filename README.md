@@ -13,10 +13,10 @@ HC - HeadCode,
 ST - Station
 
 ## Готовые зоны:
-A - Stepford Victoria, Willowfield -> Whitefield
-G - Farleigh Depo -> Esterfield
-H - Rayleigh Bay -> Aslockby
-J - Stepford Central (Metro) -> Stepford High Street
+- A - Stepford Victoria, Willowfield -> Whitefield
+- G - Farleigh Depo -> Esterfield
+- H - Rayleigh Bay -> Aslockby
+- J - Stepford Central (Metro) -> Stepford High Street
 
 ## Горячие клавиши
 - **F7** — отправляет выбранное сообщение.
